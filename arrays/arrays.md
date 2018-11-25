@@ -1,10 +1,10 @@
-#Arrays
+# Arrays
 
-What is an array?
-: An array is basically a container that holds other "items". Those items can be strings, numbers, other arrays, objects, functions, and booleans.  Each item that is stored in the array can be referenced by an index, with the first item being located at a 0 index.  If the array contains 3 items, its length is 3, but the indexs for those items are 0, 1, & 2.  An array has many methods that can be called on it to access and/or update information within it.  
+**What is an array?**
+An array is basically a container that holds other "items". Those items can be strings, numbers, other arrays, objects, functions, and booleans.  Each item that is stored in the array can be referenced by an index, with the first item being located at a 0 index.  If the array contains 3 items, its length is 3, but the indexs for those items are 0, 1, & 2.  An array has many methods that can be called on it to access and/or update information within it.  
 
 ---
-#Creating
+## Creating
 ---
 ```javascript
 const friends = ["Peter", "Paul", "Mary"];
